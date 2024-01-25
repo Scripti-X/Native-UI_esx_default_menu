@@ -1,7 +1,5 @@
-# ESX MENU DEFAULT GTA ONLINE STYLE
+# ESX MENU DEFAULT NATIVE UI Sytle
+ Creator: Scripti X 
+ More about this Script here: [Scripti X Website]()
 
-
-### Creator : ArdentLeKey
-### github.com/ArdentLeKey/esx_menu_default-Native-UI-reskin
-
-source : https://github.com/ESX-Org/esx_menu_default
+ 
