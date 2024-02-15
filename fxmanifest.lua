@@ -1,4 +1,3 @@
-lua54
 fx_version 'cerulean'
 games { 'rdr3', 'gta5' }
 author 'ScriptiX'
@@ -33,6 +32,8 @@ files {
     'html/fonts/v.ttf',
 
 }
+
+lua54 'yes'  
 
 dependencies {
 	'es_extended'
